@@ -1,4 +1,4 @@
-[
+
   {
     "name": "Kitty",
     "species" : "cat",
@@ -6,21 +6,5 @@
       "likes": ["fresh food"],
       "dislikes": ["stale food"]
     }
-  },
-  {
-    "name": "Pupster",
-    "species" : "dog",
-    "foods": {
-      "likes": ["tomatoes", "peas"],
-      "dislikes": ["bread"]
-    }
-  },
-  {
-    "name": "Tux",
-    "species" : "cat",
-    "foods": {
-      "likes": ["fancy dishes"],
-      "dislikes": ["basic cat food"]
-    }
   }
-]
+  
